@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate software developer from Mauritius</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshbhauruth&label=Profile%20views&color=0e75b6&style=flat" alt="adarshbhauruth" /> </p>
+<h3 align="center">Software Developer from Mauritius</h3>
 
 - 📫 How to reach me **adarshbhauruth@gmail.com**
 
